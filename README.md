@@ -1,6 +1,6 @@
 # README.md
 
-Dette er den flotteste README-en ever, jepp.
+Dette er den flotteste README-en ever.
 
 Mer tekst her.
 
